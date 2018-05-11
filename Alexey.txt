@@ -7,3 +7,11 @@ d = d * c;
 return d;
 };
 
+
+function New2 () {
+	for(var i=0; i<New(); i++){
+	
+	};
+
+
+};
