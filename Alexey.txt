@@ -1,0 +1,9 @@
+var a, b, c;
+
+function New () {
+var d;
+d = a + b;
+d = d * c;
+return d;
+};
+
